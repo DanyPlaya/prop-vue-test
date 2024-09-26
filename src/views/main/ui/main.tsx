@@ -7,7 +7,7 @@ import { AveragePriceChart } from "@/widgets/average-price-chart";
 import { columns, DataTable } from "@/widgets/data-table";
 import { useState } from "react";
 
-export const MainPage = () => {
+const MainPage = () => {
   const [productData, setProductData] = useState<ProductType[]>([]);
   console.log(productData);
   return (
@@ -31,3 +31,4 @@ export const MainPage = () => {
     </div>
   );
 };
+export default MainPage;

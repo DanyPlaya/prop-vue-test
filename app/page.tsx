@@ -1,2 +1,3 @@
-import { MainPage } from "@/pages/main";
+import MainPage from "@/views/main/ui/main";
+
 export default MainPage;
