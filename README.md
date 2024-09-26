@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+## Технологии
+- [React](https://react.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Next js](https://nextjs.org/)
+- [Shadcn ui ](https://ui.shadcn.com/)
+- [Papaparse](https://www.npmjs.com/package/papaparse)
+- [XLSX](https://www.npmjs.com/package/xlsx)
+## Запуск проекта
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+```console
+npm install
+npm run dev 
 ```
+## Скрипты
+- `npm run dev` - Запуск проекта
+- `npm run build` - Сборка проекта `production` в режиме
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Архитектура проекта
 
-## Learn More
+Проект написан в соответствии с методологией Feature-Sliced.
 
-To learn more about Next.js, take a look at the following resources:
+Документация FSD - [Feature-Sliced Design](https://feature-sliced.design/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Доп фичи
+Возможность скачать отредактированный файл в разных форматах ![image](https://github.com/user-attachments/assets/1df5281e-eca6-41f9-99c8-6dd463fb6545)
+Динамическое изменение данных в таблице и графиков ![image](https://github.com/user-attachments/assets/828a5c64-d388-4ae1-8cfd-d9b1f1750d27) ![image](https://github.com/user-attachments/assets/83e9792e-789b-4448-80d2-193f42e36184)
+ ![image](https://github.com/user-attachments/assets/7afe0f96-99ac-4ea8-b5db-6f836e74454d) ![image](https://github.com/user-attachments/assets/01d4941d-4da2-4b3f-9eea-67c452c54ffb)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
