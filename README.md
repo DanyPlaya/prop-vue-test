@@ -1,4 +1,4 @@
-
+[Копия Задание для Frontend Разработчика - Лист1.csv](https://github.com/user-attachments/files/17155990/Frontend.-.1.csv)
 ## Технологии
 - [React](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -27,8 +27,16 @@ npm run dev
 
 ## Доп фичи
 Возможность скачать отредактированный файл в разных форматах ![image](https://github.com/user-attachments/assets/1df5281e-eca6-41f9-99c8-6dd463fb6545)
-Динамическое изменение данных в таблице и графиков ![image](https://github.com/user-attachments/assets/828a5c64-d388-4ae1-8cfd-d9b1f1750d27) ![image](https://github.com/user-attachments/assets/83e9792e-789b-4448-80d2-193f42e36184)
+Динамическое изменение данных в таблице и графиках ![image](https://github.com/user-attachments/assets/828a5c64-d388-4ae1-8cfd-d9b1f1750d27) ![image](https://github.com/user-attachments/assets/83e9792e-789b-4448-80d2-193f42e36184)
  ![image](https://github.com/user-attachments/assets/7afe0f96-99ac-4ea8-b5db-6f836e74454d) ![image](https://github.com/user-attachments/assets/01d4941d-4da2-4b3f-9eea-67c452c54ffb)
+
+## Ссылки на файлы для тестирования 
+https://docs.google.com/spreadsheets/d/1jBI0KeN_kDcRYVC8QE8Blk3XBj7BUcmbyTspSNkG3BY/edit?usp=sharing
+
+## Файл xlsx для тестов 
+[product_data .xlsx](https://github.com/user-attachments/files/17155987/product_data.xlsx)
+
+
 
 
 
